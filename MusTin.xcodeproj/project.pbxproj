@@ -15,6 +15,7 @@
 		83A07E0521CFEAB600B9B98C /* MusTinTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A07E0421CFEAB600B9B98C /* MusTinTests.swift */; };
 		83A07E1021CFEAB600B9B98C /* MusTinUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A07E0F21CFEAB600B9B98C /* MusTinUITests.swift */; };
 		83A8764921E7AA70002E4EED /* Artists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A8764821E7AA70002E4EED /* Artists.swift */; };
+		83E22F8321F0CADD002944C7 /* Genre.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E22F8221F0CADD002944C7 /* Genre.swift */; };
 		83EBA63A21CFF7E60022D9DC /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83EBA63921CFF7E60022D9DC /* Artist.swift */; };
 		83EBA63C21CFF83A0022D9DC /* Song.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83EBA63B21CFF83A0022D9DC /* Song.swift */; };
 		83EBA63E21CFF8550022D9DC /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83EBA63D21CFF8550022D9DC /* Album.swift */; };
@@ -52,6 +53,7 @@
 		83A07E0F21CFEAB600B9B98C /* MusTinUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusTinUITests.swift; sourceTree = "<group>"; };
 		83A07E1121CFEAB600B9B98C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		83A8764821E7AA70002E4EED /* Artists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artists.swift; sourceTree = "<group>"; };
+		83E22F8221F0CADD002944C7 /* Genre.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Genre.swift; sourceTree = "<group>"; };
 		83EBA63921CFF7E60022D9DC /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		83EBA63B21CFF83A0022D9DC /* Song.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Song.swift; sourceTree = "<group>"; };
 		83EBA63D21CFF8550022D9DC /* Album.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
@@ -138,6 +140,7 @@
 				83EBA63B21CFF83A0022D9DC /* Song.swift */,
 				83EBA63D21CFF8550022D9DC /* Album.swift */,
 				83A8764821E7AA70002E4EED /* Artists.swift */,
+				83E22F8221F0CADD002944C7 /* Genre.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 				83A07DF221CFEAB500B9B98C /* ViewController.swift in Sources */,
 				83A07DF021CFEAB500B9B98C /* AppDelegate.swift in Sources */,
 				83EBA63E21CFF8550022D9DC /* Album.swift in Sources */,
+				83E22F8321F0CADD002944C7 /* Genre.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
