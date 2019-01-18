@@ -12,9 +12,13 @@
 		83A07DF521CFEAB500B9B98C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83A07DF321CFEAB500B9B98C /* Main.storyboard */; };
 		83A07DF721CFEAB600B9B98C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83A07DF621CFEAB600B9B98C /* Assets.xcassets */; };
 		83A07DFA21CFEAB600B9B98C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83A07DF821CFEAB600B9B98C /* LaunchScreen.storyboard */; };
-		83A07E0521CFEAB600B9B98C /* MusTinTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A07E0421CFEAB600B9B98C /* MusTinTests.swift */; };
-		83A07E1021CFEAB600B9B98C /* MusTinUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A07E0F21CFEAB600B9B98C /* MusTinUITests.swift */; };
 		83A8764921E7AA70002E4EED /* Artists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A8764821E7AA70002E4EED /* Artists.swift */; };
+		83D03B2521F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Disco Pogo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 83D03B1F21F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Disco Pogo.mp3 */; };
+		83D03B2621F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Royals.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 83D03B2021F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Royals.mp3 */; };
+		83D03B2721F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Brunette.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 83D03B2121F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Brunette.mp3 */; };
+		83D03B2821F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Rosse.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 83D03B2221F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Rosse.mp3 */; };
+		83D03B2921F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Humans.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 83D03B2321F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Humans.mp3 */; };
+		83D03B2A21F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Blonde.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 83D03B2421F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Blonde.mp3 */; };
 		83E22F8321F0CADD002944C7 /* Genre.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E22F8221F0CADD002944C7 /* Genre.swift */; };
 		83E22F8521F105D4002944C7 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E22F8421F105D4002944C7 /* SettingsViewController.swift */; };
 		83E22F8721F1B400002944C7 /* LikedListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E22F8621F1B400002944C7 /* LikedListViewController.swift */; };
@@ -49,12 +53,14 @@
 		83A07DF921CFEAB600B9B98C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83A07DFB21CFEAB600B9B98C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		83A07E0021CFEAB600B9B98C /* MusTinTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MusTinTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		83A07E0421CFEAB600B9B98C /* MusTinTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusTinTests.swift; sourceTree = "<group>"; };
-		83A07E0621CFEAB600B9B98C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		83A07E0B21CFEAB600B9B98C /* MusTinUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MusTinUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		83A07E0F21CFEAB600B9B98C /* MusTinUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusTinUITests.swift; sourceTree = "<group>"; };
-		83A07E1121CFEAB600B9B98C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		83A8764821E7AA70002E4EED /* Artists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artists.swift; sourceTree = "<group>"; };
+		83D03B1F21F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Disco Pogo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Who Is Jef - Frog Fest - 2018 - Punk-Rock - Disco Pogo.mp3"; sourceTree = "<group>"; };
+		83D03B2021F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Royals.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Who Is Jef - Frog Fest - 2018 - Punk-Rock - Royals.mp3"; sourceTree = "<group>"; };
+		83D03B2121F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Brunette.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "De Sjarels - Demo - 2015 - Alternative Rock - De Brunette.mp3"; sourceTree = "<group>"; };
+		83D03B2221F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Rosse.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "De Sjarels - Demo - 2015 - Alternative Rock - De Rosse.mp3"; sourceTree = "<group>"; };
+		83D03B2321F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Humans.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Who Is Jef - Frog Fest - 2018 - Punk-Rock - Humans.mp3"; sourceTree = "<group>"; };
+		83D03B2421F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Blonde.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "De Sjarels - Demo - 2015 - Alternative Rock - De Blonde.mp3"; sourceTree = "<group>"; };
 		83E22F8221F0CADD002944C7 /* Genre.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Genre.swift; sourceTree = "<group>"; };
 		83E22F8421F105D4002944C7 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		83E22F8621F1B400002944C7 /* LikedListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LikedListViewController.swift; sourceTree = "<group>"; };
@@ -92,8 +98,6 @@
 			isa = PBXGroup;
 			children = (
 				83A07DEE21CFEAB500B9B98C /* MusTin */,
-				83A07E0321CFEAB600B9B98C /* MusTinTests */,
-				83A07E0E21CFEAB600B9B98C /* MusTinUITests */,
 				83A07DED21CFEAB500B9B98C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -111,6 +115,7 @@
 		83A07DEE21CFEAB500B9B98C /* MusTin */ = {
 			isa = PBXGroup;
 			children = (
+				83D03B1E21F1FD4E00EE2B24 /* Artists */,
 				83EBA63821CFF6990022D9DC /* Supporting Files */,
 				83EBA63721CFF68E0022D9DC /* Controller */,
 				83EBA63621CFF6890022D9DC /* View */,
@@ -119,22 +124,17 @@
 			path = MusTin;
 			sourceTree = "<group>";
 		};
-		83A07E0321CFEAB600B9B98C /* MusTinTests */ = {
+		83D03B1E21F1FD4E00EE2B24 /* Artists */ = {
 			isa = PBXGroup;
 			children = (
-				83A07E0421CFEAB600B9B98C /* MusTinTests.swift */,
-				83A07E0621CFEAB600B9B98C /* Info.plist */,
+				83D03B1F21F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Disco Pogo.mp3 */,
+				83D03B2021F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Royals.mp3 */,
+				83D03B2121F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Brunette.mp3 */,
+				83D03B2221F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Rosse.mp3 */,
+				83D03B2321F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Humans.mp3 */,
+				83D03B2421F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Blonde.mp3 */,
 			);
-			path = MusTinTests;
-			sourceTree = "<group>";
-		};
-		83A07E0E21CFEAB600B9B98C /* MusTinUITests */ = {
-			isa = PBXGroup;
-			children = (
-				83A07E0F21CFEAB600B9B98C /* MusTinUITests.swift */,
-				83A07E1121CFEAB600B9B98C /* Info.plist */,
-			);
-			path = MusTinUITests;
+			path = Artists;
 			sourceTree = "<group>";
 		};
 		83EBA63521CFF6840022D9DC /* Model */ = {
@@ -282,9 +282,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83D03B2A21F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Blonde.mp3 in Resources */,
+				83D03B2921F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Humans.mp3 in Resources */,
+				83D03B2621F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Royals.mp3 in Resources */,
+				83D03B2721F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Brunette.mp3 in Resources */,
 				83A07DFA21CFEAB600B9B98C /* LaunchScreen.storyboard in Resources */,
 				83A07DF721CFEAB600B9B98C /* Assets.xcassets in Resources */,
+				83D03B2821F1FD4E00EE2B24 /* De Sjarels - Demo - 2015 - Alternative Rock - De Rosse.mp3 in Resources */,
 				83A07DF521CFEAB500B9B98C /* Main.storyboard in Resources */,
+				83D03B2521F1FD4E00EE2B24 /* Who Is Jef - Frog Fest - 2018 - Punk-Rock - Disco Pogo.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -325,7 +331,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				83A07E0521CFEAB600B9B98C /* MusTinTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -333,7 +338,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				83A07E1021CFEAB600B9B98C /* MusTinUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
